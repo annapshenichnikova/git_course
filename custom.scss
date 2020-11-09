@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+$color_h1: rgb(53, 121, 81);
+
+h1{
+    color: $color_h1;
+}
